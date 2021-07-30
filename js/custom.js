@@ -17,7 +17,7 @@
 
 	// Pre Load
 	metronal.preLoad = function(duration) {
-		$('#pre-load').fadeOut(parseInt(duration, 5));
+		$('#pre-load').fadeOut(parseInt(duration, 1));
 	};
 
 	// Replace Viewport Height
